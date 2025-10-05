@@ -1,0 +1,21 @@
+☁️ WEATHER REPORT
+----------------------------------
+🏙️ City           : Nawabshah
+🌎 Condition      : Sunny
+🌡️ Temperature    : 37.8°C
+🍃 Wind           : 24.5 Km/h
+🌧️ Precipitation  : 0.0mm
+💧 Humidity       : 31%
+⏱️Date&Time       : 05-10-2025 14:22:54:PM
+--------------------------------
+
+☁️ WEATHER REPORT
+----------------------------------
+🏙️ City           : Karachi
+🌎 Condition      : Mist
+🌡️ Temperature    : 31.2°C
+🍃 Wind           : 28.4 Km/h
+🌧️ Precipitation  : 0.03mm
+💧 Humidity       : 63%
+⏱️Date&Time       : 05-10-2025 02:24:10:PM
+--------------------------------
