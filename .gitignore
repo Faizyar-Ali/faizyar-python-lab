@@ -8,4 +8,13 @@ __pycache__/
 
 # Virtual environment
 .venv/
-"tempCodeRunnerFile.py" 
+
+# Environment variables (keep your secrets safe)
+.env
+
+# Editor settings
+.idea/
+.vscode/
+
+# Temporary files
+tempCodeRunnerFile.py
