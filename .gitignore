@@ -21,3 +21,9 @@ tempCodeRunnerFile.py
 
 #for javascripts
 tempCodeRunnerFile.javascript
+
+#Files of .exe
+build/
+dist/
+.ico
+.spec
