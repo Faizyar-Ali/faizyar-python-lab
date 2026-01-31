@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "name": "akr",
+        "age": 23,
+        "marks": {
+            "Physics": 23,
+            "Algebra": 23,
+            "Robotics": 32
+        },
+        "deleted": false
+    }
+]
